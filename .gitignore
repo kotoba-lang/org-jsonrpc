@@ -1,0 +1,5 @@
+*.wasm
+*.mjs
+*.mjs.manifest.edn
+/tmp
+.DS_Store
